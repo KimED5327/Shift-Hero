@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ItemAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 400c58400cd03ed4696abdf8d48cb3c1, type: 3}
+    - {fileID: 102900000, guid: e92b691b0d4e1a5499cf4d21744de898, type: 3}
+    - {fileID: 102900000, guid: 6d9b0c38b7968c84b9d0fb38c0a55cf7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5f6207700b01be6478b713cbcf7710a0, type: 3}
+  - {fileID: 21300000, guid: 040271313814bd5488473dd46dc93cba, type: 3}
+  - {fileID: 21300000, guid: d74b72a1fb66feb4fb3472e54ed9a4d5, type: 3}
+  - {fileID: 21300000, guid: 74d98392ef5517b4086d34ad893d9eb8, type: 3}
+  - {fileID: 21300000, guid: 6b93a0e2af81bb74a8f3e885994be7eb, type: 3}
+  - {fileID: 21300000, guid: 4c8ce9c34cb3cd949949408813db7ff6, type: 3}
+  - {fileID: 21300000, guid: 269a1ad365312c24bb3dc6b22d85912d, type: 3}
+  - {fileID: 21300000, guid: b5c20d747b71b9f4c9e15963699e957e, type: 3}
+  - {fileID: 21300000, guid: 943fb4e4ecf41b04f93d2bf3efeae07f, type: 3}
+  - {fileID: 21300000, guid: 63d6fae43614f7045838daf7079a2ad2, type: 3}
+  - {fileID: 21300000, guid: ce48a25514d4756478bb5c0048777a52, type: 3}
+  - {fileID: 21300000, guid: c8073b75227c21c4eae163d5ece180ea, type: 3}
+  - {fileID: 21300000, guid: b4e937a5eab3bfc4480fe7b9cccfe6d9, type: 3}
+  - {fileID: 21300000, guid: cc84b2870930f824aa8486a5f3c079c4, type: 3}
+  - {fileID: 21300000, guid: b2b0bf08b06b9634486c22e30ed33113, type: 3}
+  - {fileID: 21300000, guid: ffe58448b1a47b641b2f36c1dcf127cf, type: 3}
+  - {fileID: 21300000, guid: 8b92f169cf922fd4485c0cd34fe1a2d3, type: 3}
+  - {fileID: 21300000, guid: 131ae7e9f304a6c41a29bdb7963c9c8a, type: 3}
+  - {fileID: 21300000, guid: 22b707ba995056540acdd8a73724a22a, type: 3}
+  - {fileID: 21300000, guid: ccf5c47bd4c8e2d48a9bcb450b747e9f, type: 3}
+  - {fileID: 21300000, guid: a7526d7b08291d2428a6373367f8e80c, type: 3}
+  - {fileID: 21300000, guid: 44ecc4ab0bd50864b922abab4e799afc, type: 3}
+  - {fileID: 21300000, guid: 33e1ebbb5f6fc4d408c8eed414aef167, type: 3}
+  - {fileID: 21300000, guid: 23e3611cfb2bc474caea4362c850a5f6, type: 3}
+  - {fileID: 21300000, guid: 6a74932cf7d2c1549832a0e1a320031b, type: 3}
+  - {fileID: 21300000, guid: be6af6dca58e8d24d9852b12a38f50c1, type: 3}
+  - {fileID: 21300000, guid: ba0041dd4f989ff46a9b4bf1607d368d, type: 3}
+  - {fileID: 21300000, guid: c2d1708e95fe32b46b5aa67592065c9b, type: 3}
+  - {fileID: 21300000, guid: b2634b9e26cf5724eb4ed456b37f096a, type: 3}
+  - {fileID: 21300000, guid: a27a680f2510eaa4a807bbc7af34e413, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 101006
+  - HunterBow (Type=Arrow, Collection=Basic)
+  - 102001
+  - BattleBow (Type=Arrow, Collection=Basic)
+  - 101005
+  - 101002
+  - 100004
+  - 102003
+  - 111003
+  - 100005
+  - 111002
+  - 110001
+  - 110002
+  - 100001
+  - 110003
+  - 100002
+  - WyvernHornBow (Type=Arrow, Collection=AbandonedWorkshop)
+  - 111001
+  - MarauderBow (Type=Arrow, Collection=SpellMasters)
+  - 101001
+  - 100003
+  - 101003
+  - 100006
+  - 102002
+  - 101004
+  - 102005
+  - 102006
+  - VikingShortBow (Type=Arrow, Collection=Vikings)
+  - RedwoodBow (Type=Arrow, Collection=AbandonedWorkshop)
+  - 102004
+  m_Tag: ItemAtlas
+  m_IsVariant: 0
